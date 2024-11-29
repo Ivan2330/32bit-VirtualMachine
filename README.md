@@ -34,10 +34,3 @@ This project implements a simple CPU emulator in Python, with support for a 64KB
 
 ---
 
-## Usage
-
-### Running the Emulator
-
-To run the emulator, execute the following command:
-```bash
-
